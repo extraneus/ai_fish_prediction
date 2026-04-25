@@ -21,7 +21,7 @@ The goal is not just prediction — but **biological insight**.
 * **Source:** UCI Machine Learning Repository
 * **Dataset:** Gene Expression Cancer RNA-Seq
 
-👉 Download:
+ Download:
 
 * data.csv
 * labels.csv
@@ -47,7 +47,7 @@ Cancer types:
 
 ---
 
-## ⚙️ Pipeline
+##  Pipeline
 
 1. **Preprocessing**
 
@@ -107,7 +107,7 @@ Key observations:
 ---
 
 
-## ⚡ Installation
+##  Installation
 
 git clone https://github.com/yourusername/cancer-rna-seq-classification.git
 cd cancer-rna-seq-classification
