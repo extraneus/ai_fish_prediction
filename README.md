@@ -70,7 +70,7 @@ Cancer types:
 
 ---
 
-## 📈 Results
+##  Results
 
 * **Accuracy:** ~98%
 * **Macro F1-score:** ~0.98
@@ -83,7 +83,7 @@ Key observations:
 
 ---
 
-## 🧪 Key Findings
+##  Key Findings
 
 * Model learns **tissue-specific signals**, not just generic cancer features
 
@@ -97,7 +97,7 @@ Key observations:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -121,6 +121,7 @@ pip install -r requirements.txt
 ---
 
 ## Result 
+![Biomarker](biomarker_validation_chart.png)
 
 
 
